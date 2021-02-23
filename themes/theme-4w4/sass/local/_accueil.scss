@@ -21,7 +21,7 @@ body.home::after
     @include desktop
     {
         clip-path: polygon(90% 0, 100% 0, 100% 100%, 70% 100%);
-        background-color: cyan;
+        background-color: crimson;
     }
 }
 
